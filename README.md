@@ -6,6 +6,10 @@
 - [Game Theory](Operations/Game/README.md)
 - [Queueing Theory](Operations/Queueing/README.md)
 
+## [Capitalism](Capitalism/README.md)
+- [Employment](Capitalism/Employment/README.md)
+  - [Remote Work](Capitalism/Employment/Remote.md)
+
 ## [Finance](Finance/README.md)
 - [Banking](Finance/Banking/README.md)
 - [Payment Systems](Finance/Payment/README.md)
