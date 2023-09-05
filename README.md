@@ -2,9 +2,15 @@
 - [Post-scarcity Economy](Post-scarcity.md)
 
 ## [Operations Research](Operations/README.md)
-- [Constraint Satisfaction Problem](Operations/Constraint/README.md)
+- [Constraint Satisfaction Problems](Operations/Constraint/README.md)
 - [Game Theory](Operations/Game/README.md)
 - [Queueing Theory](Operations/Queueing/README.md)
+
+## [Finance](Finance/README.md)
+- [Banking](Finance/Banking/README.md)
+- [Payment Systems](Finance/Payment/README.md)
+  - [Payment Cards](Finance/Payment/Cards/README.md)
+  - [PayPal](Finance/Payment/PayPal.md)
 
 ## E-commerce
 - [Online Shopping](E-commerce/Online%20Shopping.md)
