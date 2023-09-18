@@ -15,6 +15,8 @@
 - [Payment Systems](Finance/Payment/README.md)
   - [Payment Cards](Finance/Payment/Cards/README.md)
   - [PayPal](Finance/Payment/PayPal.md)
+  - [FastSpring](Finance/Payment/FastSpring.md)
+- [Remittance](Finance/Remittance.md)
 
 ## E-commerce
 - [Online Shopping](E-commerce/Online%20Shopping.md)

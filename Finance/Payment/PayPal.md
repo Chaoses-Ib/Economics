@@ -6,3 +6,5 @@
 
 [Paypal外区账户/国际版绑大陆手机号注册教程-CNBoy 四海部落](https://cnboy.org/1987)
 - [NameSilo](https://www.namesilo.com/login)
+
+[接入 paypal PHP-sdk 支付 / 回调 / 退款全流程 | Laravel China 社区](https://learnku.com/articles/26282SDK)
