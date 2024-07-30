@@ -33,3 +33,14 @@
 [打假 篇一：打假第二篇：莫贪便宜，警惕亚马逊礼品卡黑卡。\_支付\_什么值得买](https://post.smzdm.com/p/a5k606l7/)
 
 [App Store 黑卡购买记录能洗白吗？ - V2EX](https://us.v2ex.com/t/252990)
+
+## Ko-fi
+[Does Ko-fi take a fee? -- Ko-fi Help](https://help.ko-fi.com/hc/en-us/articles/360002506494-Does-Ko-fi-take-a-fee)
+- Optional platform fee
+  - Monthly donations
+  - Change 'coffee' to anything
+  - Scheduled posts
+  - Contributor badge
+  - Custom Colors
+  - More Shop storage
+- PayPal/Stripe transactionh fees: ~3% + $0.30

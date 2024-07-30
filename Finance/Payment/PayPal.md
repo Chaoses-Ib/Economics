@@ -20,3 +20,10 @@ Hongkong:
 [可以验证绑定 PayPal 的虚拟信用卡推荐（包括港区、美区PayPal） | 技术拉近你我！](https://coderschool.cn/3413.html)
 
 [接入 paypal PHP-sdk 支付 / 回调 / 退款全流程 | Laravel China 社区](https://learnku.com/articles/26282SDK)
+
+## Fees
+[PayPal Fees for Customers | PayPal HK](https://www.paypal.com/hk/webapps/mpp/paypal-fees)
+
+[PayPal 怎么付款？用 PayPal 付款要手续费吗？ - Wise](https://wise.com/zh-cn/blog/pay-with-paypal)
+
+[Paypal的费用真高啊 --- Steemit](https://steemit.com/cn/@oflyhigh/paypal)
