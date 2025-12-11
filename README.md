@@ -17,6 +17,9 @@
   - [PayPal](Finance/Payment/PayPal.md)
   - [FastSpring](Finance/Payment/FastSpring.md)
 - [Remittance](Finance/Remittance.md)
+- [Stock](Finance/Stock/README.typ)
+  - [Stock Market Index](Finance/Stock/Index/README.typ)
+- [Investment Funds](Finance/Funds/README.typ)
 
 ## E-commerce
 - [Online Shopping](E-commerce/Online%20Shopping.md)
